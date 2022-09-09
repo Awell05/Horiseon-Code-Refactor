@@ -1,5 +1,7 @@
 ## Horiseon-Code-Refactor
 
+Refactoring a website.
+
 # Description
 
 This website was refactored to increase accessibility for a marketing agency. Links were modified to ensure all were properly functioning. CSS properities were consolidate, organized, and properly commented. 
